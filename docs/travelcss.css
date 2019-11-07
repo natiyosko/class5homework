@@ -1,0 +1,57 @@
+table{
+    border: groove turquoise;
+    background-color: aquamarine
+
+}
+header{
+    display: flex;justify-content: space-around;
+    margin-top: 5%;
+}
+header>div{
+    display: inline-block;
+   
+}
+.table-destenations{
+    width: 30%;
+    height: 30%;
+}
+label{
+    width: 100px; display: inline-block;
+}
+.bookFlighForm{
+    border:3px groove turquoise;
+    background-color: aquamarine;
+}
+input{
+    background-color: aquamarine;
+}
+.bookButton{
+    background-color: dodgerblue;
+
+
+}
+.table-orders{
+    display: flex;justify-content: center;
+    margin-top: 5%;
+   
+}
+button{
+    background-color: blue
+}
+footer{
+    display: flex;justify-content: space-around;
+    margin-top: 5%;
+
+}
+footer>div{
+    display: inline-block;
+    border:3px groove turquoise;
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+body{
+    background-color: gray;
+}
